@@ -20,7 +20,8 @@ Roadmap: automatic ingestion from the DevTools Profiler tab and optional Hermes 
 
 Place your images under `docs/images/` (this repo includes the folder). Example references:
 
-![Perf Flame – Demo](docs/images/Demo.png)
+![Perf Flame – Demo]<img width="1911" height="975" alt="Screenshot 2025-08-30 at 8 54 58 PM" src="https://github.com/user-attachments/assets/85c802c4-7c6b-4620-a265-a9ed97f73821" />
+()
 
 ## Quick start
 
