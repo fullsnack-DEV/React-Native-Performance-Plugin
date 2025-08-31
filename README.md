@@ -16,6 +16,12 @@ Version: `v0.1.0` (early developer preview)
 
 Roadmap: automatic ingestion from the DevTools Profiler tab and optional Hermes sampling flamegraphs (no manual export).
 
+## Screenshots
+
+Place your images under `docs/images/` (this repo includes the folder). Example references:
+
+![Perf Flame – Demo](docs/images/Demo.png)
+
 ## Quick start
 
 1) Install dependencies and start the host app in Dev Mode so Rozenite loads the plugin.
